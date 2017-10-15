@@ -1,0 +1,16 @@
+{
+  "name": "cli-cold-wallet",
+  "version": "1.0.0",
+  "description": "Make a cold storage for your bitcoins right in terminal, offline",
+  "main": "cli-cold-wallet.js",
+  "scripts": {
+    "start": "nodejs cli-cold-wallet.js"
+  },
+  "author": "Igor Korsakov <overtorment@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "bitcore-lib": "0.13.13",
+    "cli-table": "^0.3.1",
+    "qrcode-terminal": "^0.11.0"
+  }
+}
