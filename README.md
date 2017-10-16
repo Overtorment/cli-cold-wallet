@@ -7,6 +7,14 @@ Make a cold storage for your bitcoins right in terminal, offline.
 * Offline
 * Print or save to file
 
+## Installation
+
+```bash
+$ git clone git@github.com:Overtorment/cli-cold-wallet.git
+$ cd cli-cold-wallet
+$ npm install
+```
+
 ## Usage
 
 ```bash
