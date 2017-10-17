@@ -13,7 +13,7 @@ qrcode.generate(displayWif, {small: true}, function (wifCode) {
     table.push(
         [addressCode, require('fs').readFileSync('asciiart.txt', 'utf8'), wifCode]
       , ['DEPOSIT / VERIFY', '', 'WITHDRAW']
-      , [displayAddress, '', displayWif]
+      , [displayAddress, ' '.repeat(52), displayWif]
     )
     console.log(table.toString())
   })
