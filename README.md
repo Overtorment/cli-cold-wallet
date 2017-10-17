@@ -20,7 +20,7 @@ $ npm install
 ```bash
 $ nodejs cli-cold-wallet.js 
 ```
-![cli cold wallet](https://user-images.githubusercontent.com/1913337/31686594-3ca4be70-b38f-11e7-9691-2a9e44e67cd9.png "Screenshot")
+![cli cold wallet](https://user-images.githubusercontent.com/1913337/31686961-8b64df58-b390-11e7-98b6-4bde5b0b3240.png "Screenshot")
 
 
 OR
