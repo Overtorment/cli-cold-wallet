@@ -2,7 +2,7 @@
 
 Make a cold storage for your bitcoins right in terminal, offline.
 
-* Super tiny - 20 lines. See for yourself that there's no backdoors, leaks etc
+* Super tiny - 20 lines. See for yourself that there's no backdoors, leaks etc (OBLIGATORY: don't trust - verify!)
 * Makes random cold wallet each run
 * Offline
 * Print or save to file
@@ -20,7 +20,7 @@ $ npm install
 ```bash
 $ nodejs cli-cold-wallet.js 
 ```
-![cli cold wallet](https://user-images.githubusercontent.com/1913337/31687030-c128967a-b390-11e7-84a3-38d76d755a0d.png "Screenshot")
+![cli cold wallet](https://user-images.githubusercontent.com/1913337/31740872-41a05660-b45b-11e7-88a9-2dcd3890b437.png "Screenshot")
 
 
 OR
