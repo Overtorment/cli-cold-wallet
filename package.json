@@ -11,6 +11,8 @@
   "dependencies": {
     "bitcore-lib": "0.13.13",
     "cli-table": "^0.3.1",
-    "qrcode-terminal": "^0.11.0"
+    "ethereumjs-util": "^5.1.2",
+    "qrcode-terminal": "^0.11.0",
+    "secure-random": "^1.1.1"
   }
 }
