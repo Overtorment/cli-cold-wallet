@@ -32,7 +32,7 @@ $ nodejs cli-cold-wallet-ethereum.js
 OR
 
 ```bash
-$ nodejs cli-cold-wallet.js > my-bitcoin-wallet.txt
+$ nodejs cli-cold-wallet.js > my-bitcoin-wallet.txt # save to file
 ```
 
 ## Licence
