@@ -5,8 +5,8 @@ Make a cold storage for your coins right in terminal, offline.
 * Super tiny - 20 lines. See for yourself that there's no backdoors, leaks etc (OBLIGATORY: don't trust - verify!)
 * Makes random cold wallet each run
 * Offline
-* Print or save to file
-* Bitcoin or Ethereum
+* Print (now it's a paper wallet!) or save to file
+* Bitcoin (SegWit suported) or Ethereum
 
 ## Installation
 
