@@ -1,7 +1,7 @@
 {
   "name": "cli-cold-wallet",
-  "version": "1.0.0",
-  "description": "Make a cold storage for your bitcoins right in terminal, offline",
+  "version": "1.1.0",
+  "description": "Make a cold storage for your coins right in terminal, offline",
   "main": "cli-cold-wallet.js",
   "scripts": {
     "start": "nodejs cli-cold-wallet.js"
