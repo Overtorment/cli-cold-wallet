@@ -1,7 +1,7 @@
 {
   "name": "cli-cold-wallet",
-  "version": "1.1.0",
-  "description": "Make a cold storage for your coins right in terminal, offline",
+  "version": "1.2.0",
+  "description": "Make a paper wallet / cold storage for your coins right in terminal, offline",
   "main": "cli-cold-wallet.js",
   "scripts": {
     "start": "nodejs cli-cold-wallet.js"
@@ -9,9 +9,11 @@
   "author": "Igor Korsakov <overtorment@gmail.com>",
   "license": "WTFPL",
   "dependencies": {
+    "bip38": "^2.0.2",
     "bitcoinjs-lib": "^3.3.2",
     "cli-table": "^0.3.1",
     "ethereumjs-util": "^5.1.2",
+    "password-prompt": "^1.0.4",
     "qrcode-terminal": "^0.11.0",
     "secure-random": "^1.1.1"
   }

@@ -7,6 +7,7 @@ Make a cold storage for your coins right in terminal, offline.
 * Offline
 * Print (now it's a paper wallet!) or save to file
 * Bitcoin (SegWit suported) or Ethereum
+* Password-encrypted (BIP38)
 
 ## Installation
 
@@ -35,6 +36,16 @@ OR
 $ nodejs cli-cold-wallet.js > my-bitcoin-wallet.txt # save to file
 ```
 
+OR
+
+```bash
+$ nodejs cli-cold-wallet-with-password.js # will prompt for password
+```
+
 ## Licence
 
 WTFPL
+
+## Author
+
+* [Igor Korsakov](http://igorkorsakov.com)
